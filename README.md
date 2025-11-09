@@ -1,6 +1,8 @@
 # OpusTimization
 Our website lets users enter their travel periods and the number of rides into a calendar. It then generates the optimal combinations of passes to buy for the next 31 days.
 
+[![Video Title](https://img.youtube.com/vi/Gz8C-Rjc8lI/0.jpg)](https://www.youtube.com/watch?v=Gz8C-Rjc8lI)
+
 # Inspiration
 As students, we use Opus cards every day. During December, the month of exams, buying a combination of passes is sometimes cheaper than a monthly pass.
 
