@@ -3,8 +3,8 @@ Our website lets users enter their travel periods and the number of rides into a
 
 [![Video Title](https://img.youtube.com/vi/Gz8C-Rjc8lI/0.jpg)](https://www.youtube.com/watch?v=Gz8C-Rjc8lI)
 
-# Inspiration
-As students, we use Opus cards every day. During December, the month of exams, buying a combination of passes is sometimes cheaper than a monthly pass.
+# How to run
+Simply download the files and run main.py.
 
 # How we built it
 We coded in Python and used the Tkinter (python interface), VS code, and Thonny.
